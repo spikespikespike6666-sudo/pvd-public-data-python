@@ -1,0 +1,14 @@
+{
+  "measurement": "Python process main() wall time, excluding interpreter/WSL startup",
+  "python_version": "3.14.4",
+  "notebook_seconds": {
+    "01_data_quality_check.ipynb": 0.414,
+    "02_descriptive_statistics_visualization.ipynb": 0.792,
+    "03_pt_regression_validation.ipynb": 1.657
+  },
+  "total_seconds": 3.272,
+  "quality_passed": 10,
+  "quality_failed": 0,
+  "pt_loo_mae_nm": 7.469166666666668,
+  "pt_loo_r2": 0.9924030009141254
+}
