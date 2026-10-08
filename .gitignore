@@ -1,0 +1,28 @@
+# Local Python/VS Code environments
+.venv/
+.venv-wsl/
+.vscode/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded publisher PDFs and source-screen captures are not redistributed.
+sources/
+
+# Earlier data-revision workbooks are retained locally, not in the final repository.
+outputs/pvd_public_data_v1/
+outputs/pvd_public_data_v2/
+
+# Local inspection/preview and document-render intermediates.
+*.inspect.ndjson
+preview_*.png
+report/.render/
+report/.render_pdf/
+report/.tmp/
+report/build_*.py
+presentation/build_*.mjs
+presentation/render_*.mjs
+outputs/**/build_*.mjs
+outputs/**/PROGRESS.md
+presentation/录制说明与俄语讲稿.md
+presentation/Экзаменационные_вопросы.md
