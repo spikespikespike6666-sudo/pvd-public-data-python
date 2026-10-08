@@ -1,0 +1,5 @@
+﻿target_material,source_id,records,time_min,time_max,pressure_min_Pa,pressure_max_Pa,thickness_min_nm,thickness_median_nm,thickness_max_nm,calculated_rate_median_nm_min,power_records,current_records
+Cu3N,S02,12,7,30,3.5,5.0,40.0,97.5,215.0,6.5,12,0
+Pt,S01,8,2,12,0.5,1.5,41.5,143.55,428.4,28.45,0,8
+Ti,S05,9,30,30,0.5,1.5,820.0,1030.0,1210.0,34.333333333333336,9,0
+W,S03,1,8,8,0.2,0.2,79.7,79.7,79.7,9.9625,1,0
