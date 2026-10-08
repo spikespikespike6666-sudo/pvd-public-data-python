@@ -1,0 +1,20 @@
+{
+  "data_file": "pvd_experiments_verified_v3.csv",
+  "row_count": 30,
+  "column_count": 22,
+  "passed_checks": 10,
+  "failed_checks": 0,
+  "issue_count": 0,
+  "sources": {
+    "S01": 8,
+    "S02": 12,
+    "S03": 1,
+    "S05": 9
+  },
+  "materials": {
+    "Cu3N": 12,
+    "Pt": 8,
+    "Ti": 9,
+    "W": 1
+  }
+}

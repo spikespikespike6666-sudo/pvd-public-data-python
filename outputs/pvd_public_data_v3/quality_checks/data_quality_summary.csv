@@ -1,0 +1,11 @@
+﻿check,result,observed,expected,details
+row_count,PASS,30,30,主数据表应包含30条已核实实验记录。
+required_columns_present,PASS,13,13,缺失列：无
+experiment_id_complete,PASS,0,0,每条记录必须有实验编号。
+experiment_id_unique,PASS,0,0,实验编号必须唯一。
+required_values_complete,PASS,0,0,必填字段不得为空。
+numeric_fields_parseable,PASS,0,0,已有的数值字段必须能够转换为数值。
+core_physical_values_positive,PASS,0,0,沉积时间、压力和膜厚必须大于0。
+power_or_current_available,PASS,0,0,每条记录至少需要一个正的功率或放电电流值。
+source_identifiers_valid,PASS,0,0,DOI格式和来源URL必须可识别。
+verification_status_consistent,PASS,0,0,主表仅允许 verified 且 reported_measured 的记录。

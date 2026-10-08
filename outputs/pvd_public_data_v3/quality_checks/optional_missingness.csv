@@ -1,0 +1,8 @@
+﻿column,missing_count,available_count,note
+power_W,8,22,允许缺失，不计为质量错误
+discharge_current_mA,22,8,允许缺失，不计为质量错误
+substrate_temperature_C,30,0,允许缺失，不计为质量错误
+substrate_temperature_label,10,20,允许缺失，不计为质量错误
+deposition_rate_nm_min,22,8,允许缺失，不计为质量错误
+original_deposition_time_s,9,21,允许缺失，不计为质量错误
+comments,0,30,允许缺失，不计为质量错误
