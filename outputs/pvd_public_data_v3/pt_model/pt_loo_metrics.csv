@@ -1,0 +1,3 @@
+﻿method,validation,records,MAE_nm,R2,negative_predictions
+Linear regression on calculated rate,leave-one-out,8,7.469166666666668,0.9924030009141254,0
+Training-mean calculated rate baseline,leave-one-out,8,46.72857142857141,0.8040010266675542,0
